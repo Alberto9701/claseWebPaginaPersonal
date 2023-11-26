@@ -1,0 +1,13 @@
+table{
+    border: 1px solid #000000;
+    background-color: #ce5151;
+}
+
+td{
+    border: 1px solid rgb(44, 41, 41);
+    background-color: #b6b6b6;
+}
+
+thead{
+    color: aquamarine;
+}
