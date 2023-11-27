@@ -7,7 +7,10 @@ html{
     max-width: 1200px;
     width: 95%;
     margin: 0 auto; /* para centrar horizontalmente el contenedor del contenedor padre */
+
+    z-index: 1;
 }
+
 
 body{
     margin: 0px;
@@ -15,8 +18,39 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-
     color: white;
+    box-shadow: inset 50px 50px 200px 100px black ;
+
+    font-family: 'Saira Semi Condensed', sans-serif;
+    font-weight:900;
+
+}
+
+h1{
+    margin: 0;
+}
+
+.header{
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.barraDeNav{
+    background-color: rgb(63, 63, 63);
+    font-size: 3rem;
+    display: flex;
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin-left: 5rem;
+}
+a:hover{
+    color: gray;
 }
 
 footer{
@@ -24,6 +58,33 @@ footer{
     color: white;
     font-size: large;
     font-style:italic;
+    display: flex;
+    margin-top: 3rem;
+    padding: 1.5rem;
+    justify-content: space-between;
+    align-items: center;
+}
+.infoFooter{
+    margin: 0;
+}
 
+.logoEscom{
+    height: 10rem;
+}
 
+.personal{
+    font-size: 2rem;
+
+}
+
+.info{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 5rem;
+}
+
+.imagenInfo{
+    height: 200px;
+    border-radius: 6rem;
 }
