@@ -1,0 +1,29 @@
+html{
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+.contenedor{
+    max-width: 1200px;
+    width: 95%;
+    margin: 0 auto; /* para centrar horizontalmente el contenedor del contenedor padre */
+}
+
+body{
+    margin: 0px;
+    background-image: url("../images/luna.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    color: white;
+}
+
+footer{
+    background-color:  rgb(59, 46, 46);
+    color: white;
+    font-size: large;
+    font-style:italic;
+
+
+}
