@@ -1,0 +1,29 @@
+.semestre{
+    display: flex;
+    gap: 3rem;
+}
+
+.materia{
+    display: block;
+    padding: 1rem;
+    margin: 1rem;
+    width: 10rem;
+    height: 8rem;
+
+    
+} 
+
+.aprobada{
+    background-color: green;
+}
+.reprobada{
+    background-color: red;
+}
+
+.noCursada{
+    background-color: yellow;
+}
+
+.division{
+    background-color: white;
+}
