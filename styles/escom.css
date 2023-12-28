@@ -1,5 +1,6 @@
 .semestre{
     display: flex;
+    align-items: center;
     gap: 3rem;
 }
 
@@ -9,8 +10,9 @@
     margin: 1rem;
     width: 10rem;
     height: 8rem;
+    background-color: blue;
 
-    
+
 } 
 
 .aprobada{
@@ -21,7 +23,7 @@
 }
 
 .noCursada{
-    background-color: yellow;
+    background-color: rgb(176, 176, 3);
 }
 
 .division{

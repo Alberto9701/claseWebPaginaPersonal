@@ -1,0 +1,14 @@
+1, Análisis Vectorial,aprobada
+1, matematicas avanzadas,aprobada
+2, desarrollo web,aprobada
+3, electrónica analógica,aprobada
+4, Teoria computacional,aprobada
+4, matematicas avanzadas,aprobada
+5, Procesamiento Digital de señales,reprobada
+6, Inteligencia Artificial,no cursada
+3, Analisis y diseño de algoritmos,reprobada
+3, Finanzas empresariales,reprobada
+3, Ecuaciones diferenciales,no cursada
+5, compiladores,reprobada
+3, bases de datos,aprobada
+1, mates discretas, aprobada
