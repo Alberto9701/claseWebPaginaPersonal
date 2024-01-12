@@ -1,13 +1,18 @@
 table{
     border: 1px solid #000000;
     background-color: #ce5151;
+    margin-top: 4rem;
+    width: 50%;
+    height: 10rem;
+    text-align: center;
 }
 
 td{
     border: 1px solid rgb(44, 41, 41);
     background-color: #b6b6b6;
+    color: black;
 }
 
 thead{
-    color: aquamarine;
+    color: black;
 }

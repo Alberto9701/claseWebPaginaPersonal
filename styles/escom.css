@@ -9,10 +9,6 @@
     padding: 1rem;
     margin: 1rem;
     width: 10rem;
-    height: 8rem;
-    background-color: blue;
-
-
 } 
 
 .aprobada{
@@ -24,6 +20,10 @@
 
 .noCursada{
     background-color: rgb(176, 176, 3);
+}
+
+.cursando{
+    background-color: aquamarine;
 }
 
 .division{

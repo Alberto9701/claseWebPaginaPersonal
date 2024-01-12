@@ -72,6 +72,10 @@
                             echo "<div class='materia noCursada'>";
 
                         }
+                        else if($materia->estado=="cursando"){
+                            echo "<div class='materia cursando'>";
+
+                        }
                         echo "<p>". "Semestre: ". $materia->semestre."</p>";
                         echo "<p>". $materia->nombre."</p>";
                         echo "<p>".$materia->estado."</p>";
@@ -94,6 +98,10 @@
                         }
                         else if($materia->estado=="no cursada"){
                             echo "<div class='materia noCursada'>";
+
+                        }
+                        else if($materia->estado=="cursando"){
+                            echo "<div class='materia cursando'>";
 
                         }
                         echo "<p>". "Semestre: ". $materia->semestre."</p>";
@@ -121,6 +129,10 @@
                             echo "<div class='materia noCursada'>";
 
                         }
+                        else if($materia->estado=="cursando"){
+                            echo "<div class='materia cursando'>";
+
+                        }
                         echo "<p>". "Semestre: ". $materia->semestre."</p>";
                         echo "<p>". $materia->nombre."</p>";
                         echo "<p>".$materia->estado."</p>";
@@ -144,6 +156,11 @@
                             echo "<div class='materia noCursada'>";
 
                         }
+                        else if($materia->estado=="cursando"){
+                            echo "<div class='materia cursando'>";
+
+                        }
+
                         echo "<p>". "Semestre: ". $materia->semestre."</p>";
                         echo "<p>". $materia->nombre."</p>";
                         echo "<p>".$materia->estado."</p>";
@@ -166,6 +183,10 @@
                         }
                         else if($materia->estado=="no cursada"){
                             echo "<div class='materia noCursada'>";
+
+                        }
+                        else if($materia->estado=="cursando"){
+                            echo "<div class='materia cursando'>";
 
                         }
                         echo "<p>". "Semestre: ". $materia->semestre."</p>";
@@ -192,6 +213,10 @@
                             echo "<div class='materia noCursada'>";
 
                         }
+                        else if($materia->estado=="cursando"){
+                            echo "<div class='materia cursando'>";
+
+                        }
                         echo "<p>". "Semestre: ". $materia->semestre."</p>";
                         echo "<p>". $materia->nombre."</p>";
                         echo "<p>".$materia->estado."</p>";
@@ -215,6 +240,10 @@
                         else if($materia->estado=="no cursada"){
                             echo "<div class='materia noCursada'>";
         
+                        }
+                        else if($materia->estado=="cursando"){
+                            echo "<div class='materia cursando'>";
+
                         }
                         echo "<p>". "Semestre: ". $materia->semestre."</p>";
                         echo "<p>". $materia->nombre."</p>";
@@ -241,12 +270,16 @@
                             echo "<div class='materia noCursada'>";
         
                         }
+                        else if($materia->estado=="cursando"){
+                            echo "<div class='materia cursando'>";
+
+                        }
                         echo "<p>". "Semestre: ". $materia->semestre."</p>";
                         echo "<p>". $materia->nombre."</p>";
                         echo "<p>". $materia->estado."</p>";
                         echo "</div>";
-                        }
                     }
+                }
                 echo "</div>";
             echo "</table>";
             

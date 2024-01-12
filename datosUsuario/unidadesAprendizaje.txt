@@ -1,14 +1,50 @@
 1, Análisis Vectorial,aprobada
-1, matematicas avanzadas,aprobada
-2, desarrollo web,aprobada
-3, electrónica analógica,aprobada
+1, Comunicación oral y escrita,aprobada
+1, Matemáticas discretas,aprobada
+1, Cálculo,aprobada
+1, Fundamentos de programación,aprobada
+2, Álgebra lineal,aprobada
+2, Cálculo aplicado,aprobada
+2, Mecánica y Electromagnetismo,aprobada
+2, Ingeniaría Ética y Sociedad,aprobada
+2, Fundamentos Económicos,aprobada
+2, Algoritmos y Estructuras de Datos,aprobada
+3, Ecuaciones diferenciales,aprobada
+3, Circuitos eléctricos,aprobada
+3, Fundamentos de diseño digital,aprobada
+3, Bases de datos,aprobada
+3, Finanzas empresariales,aprobada
+3, Paradigmas de programación,aprobada
+3, Análisis y diseño de algoritmos,aprobada
 4, Teoria computacional,aprobada
-4, matematicas avanzadas,aprobada
-5, Procesamiento Digital de señales,reprobada
+4, Matemáticas avanzadas,aprobada
+4, Sistemas operativos,aprobada
+4, Tecnologías para el desarrollo web,cursando
+4, Diseño de sistemas digitales,no cursada
+4, Electrónica analógica,aprobada
+4, Probabilidad y estadística,aprobada
+5, Instrumentación y control,no cursada
+5, Arquitectura de computadoras,no cursada
+5, Procesamiento Digital de señales,aprobada
+5, Ánalisis y diseño de sistemas,aprobada
+5, Formulación y evaluación de proyectos,aprobada
+5, Compiladores,cursando
+5, Redes de computadoras,no cursada
+6, Sistemas en chip,no cursada
+6, Optativa A1,no cursada
+6, Optativa B1,no cursada
+6, Metodos Cuantitativos,no cursada
 6, Inteligencia Artificial,no cursada
-3, Analisis y diseño de algoritmos,reprobada
-3, Finanzas empresariales,reprobada
-3, Ecuaciones diferenciales,no cursada
-5, compiladores,reprobada
-3, bases de datos,aprobada
-1, mates discretas, aprobada
+6, Ingeniería de software,no cursada
+6, Aplicaciones para comunicaciones en red,no cursada
+7, Administración de servicios en red,no cursada
+7, Sistemas distribuidos,no cursada
+7, Trabajo terminal 1,no cursada
+7, Optativa A2,no cursada
+7, Optativa B2,no cursada
+7, Desarrollo de aplicaciones móviles nativas,no cursada
+8, Estancia profesional,no cursada
+8, Desarrollo de habilidades sociales para la alta dirección,no cursada
+8, Trabajo terminal 2,no cursada
+8, Gestión empresarial,no cursada
+8, Liderazgo personal,no cursada
