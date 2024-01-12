@@ -1,17 +1,19 @@
 .cabezeraTabla{
     background-color: orange;
+    text-align: center;
+    font-size: 2rem;
 }
 
 .cuerpoTabla{
-    background-color: gray;
+    background-color: rgba(128, 163, 196, 0.22);
 }
 
 .tabla{
     padding-top: 2rem;
-    color: black;
+    color: white;
     width: 100%;
 
-    
+    font-size: 1.5rem;
 }
 
 .estrella{

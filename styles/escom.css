@@ -19,13 +19,54 @@
 }
 
 .noCursada{
-    background-color: rgb(176, 176, 3);
+    background-color: rgb(156, 156, 29);
 }
 
 .cursando{
-    background-color: aquamarine;
+    background-color: purple;
 }
 
 .division{
     background-color: white;
+}
+
+
+.colores{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.color{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.aprobadaCuadro{
+    height: 20px;
+    width: 20px;
+    background-color: green;
+}
+
+.reprobadaCuadro{
+    height: 20px;
+    width: 20px;
+    background-color: red;
+
+}
+
+.noCursadaCuadro{
+    height: 20px;
+    width: 20px;
+    background-color: rgb(156, 156, 29);;
+
+}
+
+.cursandoCuadro{
+    height: 20px;
+    width: 20px;
+    background-color: purple;
+
 }

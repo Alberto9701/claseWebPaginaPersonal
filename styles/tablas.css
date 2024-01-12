@@ -2,9 +2,10 @@ table{
     border: 1px solid #000000;
     background-color: #ce5151;
     margin-top: 4rem;
-    width: 50%;
-    height: 10rem;
+    width: 75%;
+    height: 12rem;
     text-align: center;
+    font-size: 2rem;
 }
 
 td{

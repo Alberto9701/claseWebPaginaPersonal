@@ -26,7 +26,28 @@
     </nav>
     
     <div class="contenedor">
+        <div class="colores">
+            <div class="color">
+                <p>Aprobada</p>
+                <div class="aprobadaCuadro"></div>
+            </div>
 
+            <div class="color">
+                <p>Reprobada</p>
+                <div class="reprobadaCuadro"></div>
+            </div>
+
+            <div class="color">
+                <p>No cursada</p>
+                <div class="noCursadaCuadro"></div>
+            </div>
+
+            <div class="color">
+                <p>Cursando</p>
+                <div class="cursandoCuadro"></div>
+            </div>
+
+        </div>
         
         <?php
             class UnidadAprend{
@@ -286,6 +307,26 @@
             
             ?>
     </div>
+
+
+    <footer class="footer">
+        <div>
+            <p>Alumno: Mejía Martínez José Alberto</p>
+            <p>Materia: Tecnologías para el desarrollo web</p>
+
+        </div>
+
+        <div>
+            <img class="logoEscom" src="../images/pngwing.com.png" alt="logo de ESCOM">
+        </div>
+
+        <div>
+            <p>Escuela Superior de Cómputo</p>
+            <p>ESCOM IPN, Unidad Profesional Adolfo López Mateos, Av. Juan de Dios Bátiz</p>
+            <p>Nueva Industrial Vallejo, Gustavo A. Madero, 07320 Ciudad de México, CDMX</p>
+        </div>
+    </footer>
+
 </body>
 </html>
 
